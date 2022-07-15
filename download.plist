@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>science.xnu.undecimus</string>
 				<key>bundle-version</key>
-				<string>6.2.0</string>
+				<string>6.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>test App download</string>
+				<string>uncover</string>
 			</dict>
 		</dict>
 	</array>
