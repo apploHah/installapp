@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xina.jailbreak</string>
+				<string>org.coolstar.SileoStore</string>
 				<key>bundle-version</key>
-				<string>1.1.8</string>
+				<string>2.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XinaA15</string>
+				<string>Sileo</string>
 			</dict>
 		</dict>
 	</array>
